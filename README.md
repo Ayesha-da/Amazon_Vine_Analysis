@@ -6,6 +6,27 @@ To analyze Amazon reviews written by members of the paid Amazon Vine program. Th
 ### Perform ETL on Amazon Product Reviews
 
  In cloud ETL process,  an AWS RDS database is created with tables in pgAdmin and the dataset is extracted into a DataFrame and transformed into four separate DataFrames that match the table schema in pgAdmin. Data is uploaded  into the appropriate tables and queries are run in pgAdmin to confirm that the data has been uploaded.
+![summary](https://user-images.githubusercontent.com/84524153/134749273-e873d01e-22e7-4fbe-9f9b-ba4e8a25d971.png)
+
+#### Customers table
+![customer](https://user-images.githubusercontent.com/84524153/134749289-a2d358c2-cbde-41ba-999f-c7117e0e91cd.png)
+
+![customer1](https://user-images.githubusercontent.com/84524153/134749291-2cffd8ef-d8d2-4514-b7f8-fbfdad8817a8.png)
+
+#### Products table
+![products](https://user-images.githubusercontent.com/84524153/134749296-5954b1b6-2ddd-48e4-bba6-9273600eb867.png)
+
+![products1](https://user-images.githubusercontent.com/84524153/134749298-2a391f03-31b0-46fb-ac2c-de9c45fcc209.png)
+
+#### Review Id table
+![review_id](https://user-images.githubusercontent.com/84524153/134749312-35c25222-849b-4de5-aa73-3248f777d487.png)
+
+![review_id1](https://user-images.githubusercontent.com/84524153/134749315-5f7c51ad-af14-4c26-8e2d-50f027f7db27.png)
+
+#### Vine table
+![vine_table](https://user-images.githubusercontent.com/84524153/134749323-15db4c43-995b-43a7-9268-1d0d47781227.png)
+
+![vine_table1](https://user-images.githubusercontent.com/84524153/134749328-da772e1c-04ab-4a56-8fac-f2acca71a014.png)
 
 
 ### Determine Bias of Vine Reviews
