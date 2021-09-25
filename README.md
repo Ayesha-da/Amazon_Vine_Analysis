@@ -31,13 +31,22 @@ To analyze Amazon reviews written by members of the paid Amazon Vine program. Th
 
 ### Determine Bias of Vine Reviews
 ![review](https://user-images.githubusercontent.com/84524153/134742201-d8489892-c3a5-482e-b5ca-81cd98d3efdd.png) 
-
-- How many Vine reviews and non-Vine reviews were there?
-- How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
-- What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
-
-
+##### Vine reviews (Paid) and non-Vine reviews (Unpaid)
 ![vine](https://user-images.githubusercontent.com/84524153/134742213-e7b61c40-b696-4f9b-8ea1-6b8594159980.png)
+
+###### - How many Vine reviews and non-Vine reviews were there?
+
+![totalcount](https://user-images.githubusercontent.com/84524153/134751145-fa0a3f43-6cde-4c38-baa1-a949dcf1f24b.png)
+
+###### - How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
+
+![5star](https://user-images.githubusercontent.com/84524153/134751383-8b9143f6-a1af-4972-879d-7a256667134b.png)
+
+###### - What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+
+![percentage](https://user-images.githubusercontent.com/84524153/134751019-17725bd7-1f11-430d-9639-71090b44ec43.png)
+
+
 
 ## Summary: 
 - Additional analysis
