@@ -51,5 +51,7 @@ To analyze Amazon reviews written by members of the paid Amazon Vine program. Th
 There is negligible percentage of vine reviews and so it is safe to say there is no bias towards reviews and having a paid Vine reviews makes almost no difference in the percentage of 5-star reviews.
 
 Additional analysis  
-Additional analysis can be performed by analyzing reviews across various star ratings to determine the consistency of finding
+- Analysis can be performed by analyzing reviews across various star ratings to determine the consistency of results.
+- Additional analysis can be performed on different categories of products to support the statement.
+
 
