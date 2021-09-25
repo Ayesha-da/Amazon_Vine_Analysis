@@ -5,7 +5,7 @@ To analyze Amazon reviews written by members of the paid Amazon Vine program. Th
 
 ### Perform ETL on Amazon Product Reviews
 
- In cloud ETL process,  an AWS RDS database is created with tables in pgAdmin and the dataset is extracted into a DataFrame Using PySpark in Google Colab Notebook and transformed into four separate DataFrames that match the table schema in pgAdmin. Data is uploaded  into the appropriate tables and queries are run in pgAdmin to confirm that the data has been uploaded.
+ In cloud ETL process,  an AWS RDS database is created with tables in pgAdmin and the dataset is extracted into a DataFrame using PySpark in Google Colab Notebook and transformed into four separate DataFrames that match the table schema in pgAdmin. Data is uploaded  into the appropriate tables and queries are run in pgAdmin to confirm that the data has been uploaded.
 ![summary](https://user-images.githubusercontent.com/84524153/134749273-e873d01e-22e7-4fbe-9f9b-ba4e8a25d971.png)
 
 #### Customers table
